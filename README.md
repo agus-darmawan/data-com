@@ -1,5 +1,5 @@
-## Database Component Programing
+# Database Component Programing
 
-| Code | Nama Barang    | Jumlah    |
-| :---:   | :---: | :---: |
-| Seconds | 301   | 283   |    2    |
+|   No  |   Code    |      Nama Barang       |  Jumlah  | Kondisi |
+| :---: | :-----:   |  :-------------------: |   :---:  |  :---:  |
+|   1   |  MP-001   | Nvdia Jetson TX2       |   1      |  Baik   |
